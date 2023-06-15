@@ -114,6 +114,6 @@ The PlantCycopedia API project is licensed under the [MIT License](LICENSE).
 For any inquiries or further information, please contact the project developers:
 
 - Debby Frandina: [Email](mailto:debbyfrandina@debbyfrandina.com)
-- Vito Ahmad Husein: [Email](mailto:vitoahmadhusein@gmail.com)
+- Vito Ahmad Husein: [Email](mailto:rosanop.11@gmail.com)
 
 GitHub repository: [CC_Plantcycopedia](https://github.com/debbyfrandina/CC_Plantcycopedia)
